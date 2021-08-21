@@ -1,4 +1,4 @@
-#Self paced cosmology
+# Self paced cosmology
 
 This repo will host some jupyter notebooks based on Peebles' Principles of Physical Cosmology (hereafter PoPC).
 
